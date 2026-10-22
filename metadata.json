@@ -1,0 +1,6 @@
+{
+  "name": "Pantry-to-Dinner Planner",
+  "description": "Turn ingredients in your kitchen into quick, safe, allergen-aware dinners with smart shopping lists and label caution flags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
